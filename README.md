@@ -10,3 +10,4 @@ Solutions may be in Javascript (Typescript), Python, Go, C#, or whatever else I 
 |---------|--------|----------|  
 |Multiples of 3 and 5|[Project Euler](https://projecteuler.net/problem=1)| [link](./multiples-of-3-and-5/README.md) |
 |Even Fibbonacci|[Project Euler](https://projecteuler.net/problem=2)| [link](./even-fibbonacci/README.md) |
+|Largest Prime|[Project Euler](https://projecteuler.net/problem=3)| [link](./largest-prime/README.md) |
