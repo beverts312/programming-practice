@@ -1,12 +1,12 @@
 //By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.  
-const fibonacci = (x: number) => {
+const fibonacci = (x: number): number => {
     if (x <= 1) {
         return 1;
     }
     return fibonacci(x - 1) + fibonacci(x - 2);
 }
 
-const isEven = (x: number) => {
+const isEven = (x: number): boolean => {
     return x % 2 ? false : true;
 }
 
