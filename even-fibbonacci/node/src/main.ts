@@ -34,4 +34,4 @@ while (n < max) {
     i++;
 }
 console.log(answer);
-//4613732
+// 4613732
