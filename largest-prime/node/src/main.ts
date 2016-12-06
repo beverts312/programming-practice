@@ -1,3 +1,5 @@
+// What is the largest prime factor of the number 600851475143 ?
+
 /**
  * Checks to see if input is a prime number
  * @param {number} x

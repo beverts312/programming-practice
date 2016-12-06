@@ -1,4 +1,10 @@
 //By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.  
+
+/**
+ * Calculates the fibbonaci value
+ * @param {number} x
+ * @returns {number}
+ */
 const fibonacci = (x: number): number => {
     if (x <= 1) {
         return 1;
@@ -6,6 +12,11 @@ const fibonacci = (x: number): number => {
     return fibonacci(x - 1) + fibonacci(x - 2);
 }
 
+/**
+ * Checks to see if the input is even
+ * @param {number} x
+ * @returns {boolean}
+ */
 const isEven = (x: number): boolean => {
     return x % 2 ? false : true;
 }
