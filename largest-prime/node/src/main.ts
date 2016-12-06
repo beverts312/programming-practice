@@ -7,12 +7,12 @@
  */
 const isPrime = (x: number): boolean => {
     for (let i = 2; i < x; i++) {
-        if (x % i == 0) {
+        if (x % i === 0) {
             return false;
         }
     }
     return x > 1;
-}
+};
 
 /**
  * Checks to see if the input is a factor of the num global variable
@@ -21,7 +21,7 @@ const isPrime = (x: number): boolean => {
  */
 const isFactor = (x: number): boolean => {
     return num % x ? false : true;
-}
+};
 
 const num = 600851475143;
 const max = Math.floor(Math.sqrt(num));
@@ -34,3 +34,4 @@ for (let i = max; i > 2; i--) {
         }
     }
 }
+// 6857

@@ -10,9 +10,10 @@ const isMultipleOfThreeOrFive = (x: number): boolean => {
 };
 
 let answer = 0;
-for(let i = 0; i < 1000; i++) {
-    if(isMultipleOfThreeOrFive(i)){
+for (let i = 0; i < 1000; i++) {
+    if (isMultipleOfThreeOrFive(i)) {
         answer += i;
     }
 }
 console.log(answer);
+//233168
