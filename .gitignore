@@ -1,4 +1,12 @@
+# IDE
 .vscode
+
+# Node
 **/node_modules
 **/typings
 **/src/**/*.js*
+
+# C Sharp
+**/bin
+**/obj
+*.lock.*
