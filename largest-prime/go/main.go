@@ -33,7 +33,7 @@ func main() {
 	for i := max; i > 2; i-- {
 		if isFactor(i) == true {
 			if isPrime(i) == true {
-				fmt.Println(i, " is a prime factor")
+				fmt.Println(i, " is the largest prime factor")
 				i = 0
 			}
 		}
