@@ -2,7 +2,7 @@
 Source: [Project Euler](https://projecteuler.net/problem=3)  
 Description: What is the largest prime factor of the number 600851475143 ?  
 
-## Typescript  
+## Node  
 Check it out [here](./node/src/main.ts).  
 To run (assumes you arleady have node/npm):  
 1. Navigate to the `node` directory  

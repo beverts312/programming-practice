@@ -2,7 +2,7 @@
 Source: [Project Euler](https://projecteuler.net/problem=2)  
 Description: By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.  
 
-## Typescript  
+## Node  
 Check it out [here](./node/src/main.ts).  
 To run (assumes you arleady have node/npm):  
 1. Navigate to the `node` directory  
