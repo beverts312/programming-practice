@@ -12,5 +12,6 @@ To run (assumes you arleady have node/npm):
 
 ## Go  
 Check it out [here](./go/main.go).  
+To run (assumes you arleady have go):  
 1. Navigate to the `go` directory  
 2. Run `go run main.go`  
