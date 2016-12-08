@@ -15,3 +15,11 @@ Check it out [here](./go/main.go).
 To run (assumes you arleady have go):  
 1. Navigate to the `go` directory  
 2. Run `go run main.go`  
+
+
+## CSharp  
+Check it out [here](./csharp/Program.cs).  
+To run (assumes you arleady have dotnet core):  
+1. Navigate to the `csharp` directory  
+2. Install dependencies `dotnet restore`  
+3. Compile and Run `dotnet run`  
