@@ -9,4 +9,4 @@ This project will hold solutions to various problems sourced from these sites:
 |Multiples of 3 and 5|[Project Euler](https://projecteuler.net/problem=1)| [link](./multiples-of-3-and-5/README.md) | x | x || x |
 |Even Fibbonacci|[Project Euler](https://projecteuler.net/problem=2)| [link](./even-fibbonacci/README.md) | x | x || x |
 |Largest Prime|[Project Euler](https://projecteuler.net/problem=3)| [link](./largest-prime/README.md) | x | x || x |
-|Palindrome Product|[Project Euler](https://projecteuler.net/problem=4)| [link](./palindrome-product/README.md) | x | x |||
+|Palindrome Product|[Project Euler](https://projecteuler.net/problem=4)| [link](./palindrome-product/README.md) | x | x || x |
