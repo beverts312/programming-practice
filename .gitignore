@@ -2,9 +2,8 @@
 .vscode
 
 # Node
-**/node_modules
-**/typings
-**/src/**/*.js*
+node_modules
+**/*.js*
 
 # C Sharp
 **/bin

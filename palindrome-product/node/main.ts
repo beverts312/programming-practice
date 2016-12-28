@@ -6,8 +6,8 @@
  * @returns {boolean}
  */
 const isPalindrome = (x: number): boolean => {
-    let xStr = x.toString();
-    let length = xStr.length;
+    const xStr = x.toString();
+    const length = xStr.length;
     for (let i = 0; i < length; i++) {
         if (xStr.charAt(i) !== xStr.charAt((length - 1) - i)) {
             return false;

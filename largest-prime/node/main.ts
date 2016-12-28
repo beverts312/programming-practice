@@ -1,5 +1,7 @@
 // What is the largest prime factor of the number 600851475143 ?
 
+const num = 600851475143;
+
 /**
  * Checks to see if input is a prime number
  * @param {number} x
@@ -23,10 +25,8 @@ const isFactor = (x: number): boolean => {
     return num % x ? false : true;
 };
 
-const num = 600851475143;
-const max = Math.floor(Math.sqrt(num));
 
-for (let i = max; i > 2; i--) {
+for (let i = Math.floor(Math.sqrt(num)); i > 2; i--) {
     if (isFactor(i)) {
         if (isPrime(i)) {
             console.log(i);
