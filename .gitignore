@@ -9,3 +9,6 @@ node_modules
 **/bin
 **/obj
 *.lock.*
+
+coverage
+testresults
